@@ -1,7 +1,7 @@
 openMampHtdocsiTerm
 ===================
 
-A simple AppleScript to open iTerm in the /Applications/MAMP/htdocs folder
+A simple AppleScript to open iTerm in the /Applications/MAMP/htdocs folder from the Interactive Team at Mint Creative
 
 How to build the Application
 =====================================
@@ -13,6 +13,6 @@ How to build the Application
 
 	4. Select a location to save the App and click Save.
 
-	Enjoy your new shortcut to open iTerm at your local htdocs folder.
+Enjoy your new shortcut to open iTerm at your local htdocs folder.
 
-	You're welcome
+You're welcome

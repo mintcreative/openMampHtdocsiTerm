@@ -15,4 +15,4 @@ How to build the Application
 
 Enjoy your new shortcut to open iTerm at your local htdocs folder.
 
-You're welcome
+You're welcome.
